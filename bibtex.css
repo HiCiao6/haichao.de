@@ -1,0 +1,9 @@
+div.bibentry {
+	border: 1px solid silver;
+	display: inline-block;
+	padding: 0.3em 0.5em;
+	background: #ffffee;
+	margin: 0;
+	font-family: monaco, monospace;
+	font-size: 80%;
+}
