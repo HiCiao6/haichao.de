@@ -16,7 +16,10 @@ table#tlayout {
     border-collapse: separate;
     background: white;
 }
-
+figcaption {
+	padding: 2px;
+	text-align: center;
+  }
 body {
 	background: white;
 	font-family: Georgia, serif;
@@ -243,7 +246,7 @@ p + ul, p + ol {
 }
 
 li ul, li ol {
-	margin-top: -0.3em;
+	margin-top: auto;
 }
 
 ol {
